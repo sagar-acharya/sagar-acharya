@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/thenameissagar" target="blank"><img src="https://img.shields.io/twitter/follow/thenameissagar?logo=twitter&style=for-the-badge" alt="thenameissagar" /></a> </p>
 
-- 🌱 I’m currently learning **go, typescript, vue, nestjs**
+- 🌱 I’m currently learning **go, typescript, nestjs**
 
-- 💬 Ask me about **php, laravel, python, c++**
+- 💬 Ask me about **php, laravel, python, c++, vue**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
