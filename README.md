@@ -9,11 +9,7 @@
 
 - 🌱 I’m currently learning **go, typescript, vue, nestjs**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/imsagar/](https://www.linkedin.com/in/imsagar/)
-
 - 💬 Ask me about **php, laravel, python, c++**
-
-- 📫 How to reach me **https://www.linkedin.com/in/imsagar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
